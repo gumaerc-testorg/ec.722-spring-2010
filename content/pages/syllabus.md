@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fc680805-3db6-47e1-0440-5f4324a41b33
 ---
@@ -32,7 +34,7 @@ There is no textbook for this course. All required and optional readings are lis
 Assignments
 -----------
 
-There are seven problem sets for this course to be completed by each student. Student teams also complete short (<20 minute) mid-term and final presentations to the class, and submit a two-page (minimum) written report to be shared with Jaipur Foot.
+There are seven problem sets for this course to be completed by each student. Student teams also complete short (\<20 minute) mid-term and final presentations to the class, and submit a two-page (minimum) written report to be shared with Jaipur Foot.
 
 Grading
 -------

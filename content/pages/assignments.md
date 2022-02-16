@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b231f0ce-c0ff-5617-4746-2bd2d66e63d2
 ---
@@ -18,7 +21,7 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/mitec_722s10_pset6))
 
 Problem set 7 ([PDF]({{< baseurl >}}/resources/mitec_722s10_pset7))
 
-Teams complete short (<20 minute) mid-term and final presentations.
+Teams complete short (\<20 minute) mid-term and final presentations.
 
 Presentations must include the following:
 

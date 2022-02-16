@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures and Readings
 uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 ---
