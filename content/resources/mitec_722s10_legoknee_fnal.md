@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dbba64d5-016c-45c8-bd76-743bfe644a61
 resourcetype: Document
 title: Lego Knee team final
 uid: 7f08ebf1-9812-267d-6934-2294d7535ab7

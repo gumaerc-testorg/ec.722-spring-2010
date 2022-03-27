@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: The Jaipur Foot
 uid: aaeadd93-c7ec-9afd-8e34-5e2c9ed1abee

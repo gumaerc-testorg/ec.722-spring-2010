@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: Pediatric Prosthetics
 uid: 6864ab61-f33e-4cf9-a565-de4d91ece1a6

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: Developing World Socket Technology
 uid: 0933c40c-a8fe-7fca-8c29-183c65b7eb62

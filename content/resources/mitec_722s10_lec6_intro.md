@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: Developing World Prosthetics
 uid: a7a65e6f-e1cc-6c3d-37f8-47777531adf5

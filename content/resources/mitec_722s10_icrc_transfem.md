@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: 'Manufacturing Guidelines: Trans-Femoral Prosthesis'
 uid: 8a6f8050-2476-e958-9240-9470ba508102

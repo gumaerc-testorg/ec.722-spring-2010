@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dbba64d5-016c-45c8-bd76-743bfe644a61
 resourcetype: Document
 title: Vacu-Cast System team final
 uid: 073d635a-7afe-026e-59ed-02b3081e04df

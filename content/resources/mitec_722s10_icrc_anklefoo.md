@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: 'Manufacturing Guidelines: Ankle-Foot Orthosis'
 uid: febbab44-6477-6924-b084-3b5957eb1f41

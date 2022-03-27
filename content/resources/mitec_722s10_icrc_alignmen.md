@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: 'Manufacturing Guidelines: Alignment Jig for Lower-Limb Prosthetics'
 uid: 07e0db1d-ab9c-ba7d-92f2-daf76f6a0d08

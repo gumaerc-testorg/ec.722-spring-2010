@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: fabb8bf3-74c4-5dae-f172-72242aa80efa
 resourcetype: Document
 title: 'Manufacturing Guidelines: Trans-Tibial Prosthesis'
 uid: 7aa97a9c-19d2-0031-94fd-96f0ea94c8db

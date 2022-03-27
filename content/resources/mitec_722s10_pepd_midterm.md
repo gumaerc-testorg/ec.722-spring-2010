@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dbba64d5-016c-45c8-bd76-743bfe644a61
 resourcetype: Document
 title: Pediatric Prosthetics midterm presentation
 uid: 87060c22-cb2a-e96b-cd91-99e7123213f2
