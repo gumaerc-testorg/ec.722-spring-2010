@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, lecture materials,
+  and links to supplemental resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lectures and Readings
@@ -33,7 +35,7 @@ READINGS
 Class overview, introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.8MB]({{< baseurl >}}/resources/mitec_722s10_lecture1))
+Slides ({{% resource_link 9d939d87-e113-ed88-4f7c-f6694f574d3d "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Winter, David A. "Biomechanical Motor Patterns in Normal Walking." _Journal of Motor Behavior_ 15, no. 4 (1983).
@@ -50,11 +52,11 @@ Project presentations by TAs
 {{< tdopen >}}
 
 
-Developing world socket technology ([PDF]({{< baseurl >}}/resources/mitec_722s10_dwp_slides)) (Courtesy David Sengeh and M. Todd Farrell. Used with permission.)
+Developing world socket technology ({{% resource_link 0933c40c-a8fe-7fca-8c29-183c65b7eb62 "PDF" %}}) (Courtesy David Sengeh and M. Todd Farrell. Used with permission.)
 
-Lego knee ([PDF]({{< baseurl >}}/resources/mitec_722s10_lego_knee)) (Courtesy Frieder Wittmann and Jared Markowitz. Used with permission.)
+Lego knee ({{% resource_link d027afff-7267-d031-2c9c-3eed07596f8f "PDF" %}}) (Courtesy Frieder Wittmann and Jared Markowitz. Used with permission.)
 
-Shape and roll ([PDF]({{< baseurl >}}/resources/mitec_722s10_shaprolintro)) (Courtesy Diana Young. Used with permission.)
+Shape and roll ({{% resource_link e2e70742-2337-1bf2-9410-f58c27c3c4aa "PDF" %}}) (Courtesy Diana Young. Used with permission.)
 
 
 {{< tdclose >}}
@@ -86,7 +88,7 @@ Design for the developing world
 Challenge map, idea generation
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB]({{< baseurl >}}/resources/mitec_722s10_challengemap))
+Slides ({{% resource_link 348a27ff-bd13-8c3b-810f-3c2908c76e11 "PDF - 5.4MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -99,7 +101,7 @@ Physical Rehabilitation Programme. "Manufacturing Guidelines: Trans-Femoral Pros
 
 Physical Rehabilitation Programme. "Manufacturing Guidelines: Trans-Tibial Prosthesis." Geneva, Switzerland: International Committee of the Red Cross, 2006.
 
-International Committee of the Red Cross. "Caring for Landmine Victims." Geneva, Switzerland: International Committee of the Red Cross, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.icrc.org/eng/assets/files/other/caring-landmine-victims-0863.pdf))
+International Committee of the Red Cross. "Caring for Landmine Victims." Geneva, Switzerland: International Committee of the Red Cross, 2006. ([PDF](http://www.icrc.org/eng/assets/files/other/caring-landmine-victims-0863.pdf))
 
 International Committee of the Red Cross. "Polypropylene Technology." Geneva, Switzerland: International Committee of the Red Cross, 2006.
 
@@ -134,9 +136,9 @@ The Jaipur Foot — guest lecture by Dr. Pooja Mukul
 {{< tdopen >}}
 
 
-Introduction ([PDF - 2.3MB]({{< baseurl >}}/resources/mitec_722s10_lec6_intro))
+Introduction ({{% resource_link a7a65e6f-e1cc-6c3d-37f8-47777531adf5 "PDF - 2.3MB" %}})
 
-Jaipur foot ([PDF - 6.2MB]({{< baseurl >}}/resources/mitec_722s10_jaipur_foot))
+Jaipur foot ({{% resource_link aaeadd93-c7ec-9afd-8e34-5e2c9ed1abee "PDF - 6.2MB" %}})
 
 (Files courtesy of Dr. Pooja Mukul. Used with permission.)
 
@@ -221,7 +223,7 @@ Zahedi, Saeed. "Lower Limb Prosthetic Research in the 21st Century."
 Pediatric prosthesis
 {{< tdclose >}}
 {{< tdopen >}}
- Slides ([PDF]({{< baseurl >}}/resources/mitec_722s10_pediatricpros))  
+ Slides ({{% resource_link 6864ab61-f33e-4cf9-a565-de4d91ece1a6 "PDF" %}})  
  
 {{< tdclose >}}
 {{< tdopen >}}

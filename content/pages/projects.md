@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student work for the course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -34,10 +35,10 @@ Lego knee
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_lgoknee_mdtm))
+({{% resource_link 2f0b6747-96f9-cc3f-49c8-f8e7dfef002c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_legoknee_fnal))
+({{% resource_link 7f08ebf1-9812-267d-6934-2294d7535ab7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,10 +53,10 @@ Pediatric extendable prosthetic device
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_pepd_midterm))
+({{% resource_link 87060c22-cb2a-e96b-cd91-99e7123213f2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_pepd_final))
+({{% resource_link 1bc735f3-b970-f516-38df-2c57479743df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,10 +71,10 @@ Shape and roll: Cosmetic shell
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_shpnrol_mdtrm))
+({{% resource_link 03895d6c-b5fc-f397-a93c-f123b7a23667 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_shpnrol_final))
+({{% resource_link 9be85314-30f6-9804-6fb7-4512be451984 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,10 +89,10 @@ Vacu-cast system
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitec_722s10_vacucast_mdtm))
+({{% resource_link 688fc7a8-fd03-f1c1-f17a-58123f9b38ca "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_722s10_vacucast_fnal))
+({{% resource_link 073d635a-7afe-026e-59ed-02b3081e04df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

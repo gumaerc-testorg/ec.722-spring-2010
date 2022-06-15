@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, goals,
+  structure, readings, assignments, grading, and the schedule of course topics and
+  key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +32,7 @@ In the first half of the course, students learn through lectures the difficultie
 Course Text
 -----------
 
-There is no textbook for this course. All required and optional readings are listed on the [Lectures and Readings]({{< baseurl >}}/pages/lectures-and-readings) page.
+There is no textbook for this course. All required and optional readings are listed on the {{% resource_link fabb8bf3-74c4-5dae-f172-72242aa80efa "Lectures and Readings" %}} page.
 
 Assignments
 -----------
