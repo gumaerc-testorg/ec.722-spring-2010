@@ -5,6 +5,7 @@ file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 2
 uid: 9bb421e8-3a6e-52a2-70e1-83c0c65895d5
 ---
 This resource contains information related to problem set 2.
-

@@ -6,6 +6,7 @@ file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthe
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Shape and Roll midterm presentation
 uid: 03895d6c-b5fc-f397-a93c-f123b7a23667
 ---
 This resource contains information related to Shape and Roll midterm presentation.
-
