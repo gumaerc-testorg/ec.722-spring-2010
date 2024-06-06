@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to manufacturing guidelines:
   alignment jig for lower-limb prosthetics.'
 file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/07e0db1dab9cba7d92f2daf76f6a0d08_MITEC_722S10_ICRC_alignmen.pdf
+file_size: 2172034
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
