@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to manufacturing guidelines:
   trans-femoral prosthesis. '
 file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/8a6f80502476e95892409470ba508102_MITEC_722S10_ICRC_transfem.pdf
+file_size: 3182235
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
