@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to Shape and Roll midterm
   presentation.
 file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/03895d6cb5fcf397a93cf123b7a23667_MITEC_722S10_shpnrol_mdtrm.pdf
+file_size: 284458
 file_type: application/pdf
 learning_resource_types:
 - Projects

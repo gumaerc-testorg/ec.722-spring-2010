@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Terminology.
 file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/2c27a0c513d5f41bc18a927cd2b1dde0_MITEC_722S10_Terminology1.pdf
+file_size: 4654775
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
