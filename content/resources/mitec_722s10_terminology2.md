@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Terminology.
-file: /ol-ocw-studio-app/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/b64505636da68b87cc8d073318134b6f_MITEC_722S10_Terminology2.pdf
+file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/b64505636da68b87cc8d073318134b6f_MITEC_722S10_Terminology2.pdf
 file_size: 146231
 file_type: application/pdf
 learning_resource_types: []

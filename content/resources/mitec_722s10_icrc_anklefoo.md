@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to manufacturing guidelines:
   ankle-foot orthosis.'
-file: /ol-ocw-studio-app/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/febbab4464776924b0843b5957eb1f41_MITEC_722S10_ICRC_anklefoo.pdf
+file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/febbab4464776924b0843b5957eb1f41_MITEC_722S10_ICRC_anklefoo.pdf
 file_size: 1085674
 file_type: application/pdf
 learning_resource_types: []
