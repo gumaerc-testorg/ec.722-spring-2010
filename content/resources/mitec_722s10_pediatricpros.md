@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Pediatric Prosthetics.
-file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/6864ab61f33e4cf9a565de4d91ece1a6_MITEC_722S10_PediatricPros.pdf
+file: /ol-ocw-studio-app/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/6864ab61f33e4cf9a565de4d91ece1a6_MITEC_722S10_PediatricPros.pdf
 file_size: 358311
 file_type: application/pdf
 learning_resource_types: []

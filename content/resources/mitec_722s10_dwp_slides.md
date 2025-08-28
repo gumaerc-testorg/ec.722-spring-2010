@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to developing world socket
   technology.
-file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/0933c40ca8fe7fca8c29183c65b7eb62_MITEC_722S10_dwp_slides.pdf
+file: /ol-ocw-studio-app/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/0933c40ca8fe7fca8c29183c65b7eb62_MITEC_722S10_dwp_slides.pdf
 file_size: 144600
 file_type: application/pdf
 learning_resource_types: []

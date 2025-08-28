@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 7.
-file: /courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/7fbdfb18704f94b0081c7889c7f1896c_MITEC_722S10_pset7.pdf
+file: /ol-ocw-studio-app/courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010/7fbdfb18704f94b0081c7889c7f1896c_MITEC_722S10_pset7.pdf
 file_size: 110375
 file_type: application/pdf
 learning_resource_types:
