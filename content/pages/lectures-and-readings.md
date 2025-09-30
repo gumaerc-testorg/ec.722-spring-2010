@@ -101,7 +101,7 @@ Physical Rehabilitation Programme. "Manufacturing Guidelines: Trans-Femoral Pros
 
 Physical Rehabilitation Programme. "Manufacturing Guidelines: Trans-Tibial Prosthesis." Geneva, Switzerland: International Committee of the Red Cross, 2006.
 
-International Committee of the Red Cross. "Caring for Landmine Victims." Geneva, Switzerland: International Committee of the Red Cross, 2006. ([PDF](http://www.icrc.org/eng/assets/files/other/caring-landmine-victims-0863.pdf))
+International Committee of the Red Cross. "Caring for Landmine Victims." Geneva, Switzerland: International Committee of the Red Cross, 2006. ({{% resource_link "c1e9075b-7358-48c0-9006-960b1f53e924" "PDF" %}})
 
 International Committee of the Red Cross. "Polypropylene Technology." Geneva, Switzerland: International Committee of the Red Cross, 2006.
 
@@ -267,4 +267,4 @@ Stanford Knee — guest lecture by Joel Sadler
 Supplemental Resources
 ----------------------
 
-[International Committee of the Red Cross films and publications catalogue](http://www.icrc.org/eng/resources/publications-films/): online catalog of freely available reports and films on multiple topics
+{{% resource_link "c9582b2c-2330-4892-93cc-51abf807ce88" "International Committee of the Red Cross films and publications catalogue" %}}: online catalog of freely available reports and films on multiple topics
